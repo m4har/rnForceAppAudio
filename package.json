@@ -11,7 +11,17 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.4"
+    "react-native": "0.61.4",
+    "react-native-firebase": "^5.5.6",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-native-invoke-app": "^1.0.4",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-screens": "^1.0.0-alpha.23",
+    "react-native-sound": "^0.11.0",
+    "react-native-track-player": "^1.1.8",
+    "react-native-volume-control": "^1.0.1",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
